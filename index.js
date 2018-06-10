@@ -153,7 +153,7 @@ function getDataFromQuickbase(username, password){
 
 
 //   the urls used to receive the queries
-//   https://namanbansal.quickbase.com/db/bnpjxg2nr?a=API_DoQuery&includeRids=1&ticket=9_bnpn4fejp_b3x4tj_k5sw_a_-b_c3qin97f4ceibwvn65nb5qdahndbtzt6ydusrt4rjq8vnecd6p4hm_wxpwpb&apptoken=h5x299cur9ru4by33a2aca6vppi&udata=mydata&clist=5.6.7.22.3&slist=3&options=num-4.nosort.skp-10.onlynew&fmt=structured
+//   https://namanbansal.quickbase.com/db/bnpjxg2nr?a=API_DoQuery&includeRids=1&ticket=9_bnpn4fejp_b3x4tj_k5sw_a_-b_c3qin97f4ceibwvn65nb5qdahndbtzt6ydusrt4rjq8vnecd6p4hm_wxpwpb&apptoken=h5x299cur9ru4by33a2aca6vppi&udata=mydata&query&clist=5.6.7.22.3&slist=3&options=num-4.nosort.skp-10.onlynew&fmt=structured
 
 //   https://namanbansal.quickbase.com/db/main?a=API_Authenticate&username=naman0105&password=helloworld1&hours=24
 
